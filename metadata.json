@@ -1,0 +1,7 @@
+{
+  "name": "EcoConstrução Foz",
+  "description": "An application to help construction professionals in Foz do Iguaçu, PR, find hyper-local, verified disposal solutions for construction waste, aligned with municipal regulations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
